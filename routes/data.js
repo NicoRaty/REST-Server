@@ -4,13 +4,18 @@ const router = express.Router()
 var data = [
   {
     "id": 1,
-    "forename": "Tim",
-    "surname": "Berners-Lee"
+    "forename": "John",
+    "surname": "Johnes"
   },
   {
-    "id": 2,
-    "forename": "Roy",
-    "surname": "Fielding"
+    "id": 3,
+    "forename": "Donald",
+    "surname": "Duck"
+  }
+  {
+    "id": 4,
+    "forename": "Peter",
+    "surname": "Parket"
   }
 ]
 

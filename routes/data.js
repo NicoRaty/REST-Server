@@ -11,7 +11,7 @@ var data = [
     "id": 3,
     "forename": "Donald",
     "surname": "Duck"
-  }
+  },
   {
     "id": 4,
     "forename": "Peter",
